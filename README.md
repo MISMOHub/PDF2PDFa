@@ -1,5 +1,5 @@
 # PDF2PDFa
-PDF2PDFa is Python-based PDF to archivable PDF/A converter with Firm Fields migration to Metadata.
+PDF2PDFa is Python-based PDF to archivable PDF/A converter with Form Fields migration to Metadata.
 ##### Version: v0.1
 
 ##### Description: 
